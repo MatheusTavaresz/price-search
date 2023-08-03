@@ -26,7 +26,7 @@
 
 - `cd price-search`
 
-### Instalar Dependências:
+### Instalar Dependências e Pacote:
 
 - npm install
   
