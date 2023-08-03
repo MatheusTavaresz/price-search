@@ -2,7 +2,7 @@
 
 ### Descrição:
 
-- Price-Search é uma ferramenta CLI que permite aos usuários pesquisar preços de jogos e obter detalhes específicos do produto a partir de seu ID.
+- Price-Search é uma ferramenta CLI que permite aos usuários pesquisar preços de jogos a partir de seu nome e/ou obter detalhes de preços pelo seu ID.
 
 ### Pré-requisitos:
 
