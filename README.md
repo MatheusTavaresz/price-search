@@ -14,7 +14,7 @@
 
 #### Clonar o Repositório:
 
-- git clone https://github.com/MatheusTavaresz/desafio-ezok
+- git clone https://github.com/MatheusTavaresz/price-search
 
 ### Download Direto:
 
