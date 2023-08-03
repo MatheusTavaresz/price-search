@@ -50,8 +50,6 @@ npx price-search --details ID
 
 ##### Notas:
 
-- Caso queira fazer a instalação global do pacote para executar esse comando em qualquer lugar além do diretório, use o comando `npm install -g .`, caso contrário o npx executará os comandos temporariamente enquanto o usuário estiver na raiz do programa.
-
 - Se desejar remover o pacote instalado globalmente basta usar o comando `npm uninstall -g price-search`
 
 
