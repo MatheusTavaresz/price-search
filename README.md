@@ -28,7 +28,9 @@
 
 ### Instalar Dependências:
 
-npm install
+- npm install
+  
+- npm install -g
 
 ## Comandos:
 
